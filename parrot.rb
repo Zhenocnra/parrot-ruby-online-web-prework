@@ -6,4 +6,3 @@ def parrot(speak = "Squawk!")
 end
 
 parrot
-speak
